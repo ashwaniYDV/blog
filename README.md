@@ -1,2 +1,2 @@
 ### My personal blog
-https://ashwaniYDV.github.io
+https://ashwaniYDV.github.io/blog
