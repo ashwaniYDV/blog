@@ -18,7 +18,7 @@ Dont forget to build site to avoind github action error.
 
 ### Cloning repo
 ```
-After cloning the repo, ff themes folder is empty run this command: 
+After cloning the repo, if themes folder is empty run this command: 
 git clone https://github.com/dillonzq/LoveIt themes/LoveIt
 ```
 
