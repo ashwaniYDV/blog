@@ -10,8 +10,10 @@ https://github.com/dillonzq/LoveIt
 ### Steps to add a blog
 ```
 1) Create a blog
-2) build the hugo site
+2) build the hugo site using "hugo" command
 3) push to github
+
+Dont forget to build site to avoind github action error.
 ```
 
 ### Notes
