@@ -1,0 +1,27 @@
+name: Move Files
+
+on:
+  push:
+    branches:
+      - main  # Replace with your branch name
+
+jobs:
+  move_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Move files and folders
+        run: |
+          mkdir docs  # Create the destination directory
+          mv public/* docs/  # Move all files and folders
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Move files and folders"
+          git push
