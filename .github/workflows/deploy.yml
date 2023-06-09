@@ -15,6 +15,7 @@ jobs:
 
       - name: Move files and folders
         run: |
+          rm -rf docs/
           mkdir docs  # Create the destination directory
           mv public/* docs/  # Move all files and folders
 
