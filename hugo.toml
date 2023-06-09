@@ -32,9 +32,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Ashwani"
+  email = "ashyadavash@gmail.com"
+  link = "https://ashwaniydv.github.io/"
 
 # Menu config
 [menu]
@@ -207,12 +207,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "ashwaniYDV"
+    Linkedin = "ashwaniydv"
+    Twitter = "ashwani_iitp"
+    Instagram = "ashwani_fit"
+    Facebook = "ashwani.iitp18"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
