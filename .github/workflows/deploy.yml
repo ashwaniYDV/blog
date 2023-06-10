@@ -15,13 +15,12 @@ jobs:
 
       - name: Move files and folders
         run: |
-          if [ -d "docs" ]; then
-            rm -rf docs/
-          fi
-
-          mkdir docs
-
           if [ -d "public" ]; then
+            if [ -d "docs" ]; then
+              rm -rf docs/
+            fi
+            mkdir docs
+            
             mv public/* docs/
           else
             echo "public directory does not exist."
