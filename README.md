@@ -21,7 +21,7 @@ git clone https://github.com/dillonzq/LoveIt themes/LoveIt
 2) Deployment is happening through gh-pages from the master branch using the docs folder.
 ```
 
-### Resources
+#### Resources
 https://gohugo.io/getting-started/quick-start/
 
 https://youtu.be/_QSr2_pxIJs
