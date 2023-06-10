@@ -1,12 +1,5 @@
 # [blog](https://ashwaniydv.github.io/blog/)
 
-https://gohugo.io/getting-started/quick-start/
-
-https://youtu.be/_QSr2_pxIJs
-
-https://github.com/dillonzq/LoveIt
-
-
 ### Steps to add a blog
 ```
 1) Create a blog
@@ -27,3 +20,12 @@ git clone https://github.com/dillonzq/LoveIt themes/LoveIt
 1) Github action runs to copy the content of public folder to docs folder.
 2) Deployment is happening through gh-pages from the master branch using the docs folder.
 ```
+
+### Resources
+https://gohugo.io/getting-started/quick-start/
+
+https://youtu.be/_QSr2_pxIJs
+
+https://youtu.be/jUPW2unCJEE
+
+https://github.com/dillonzq/LoveIt
