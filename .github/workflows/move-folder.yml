@@ -15,8 +15,8 @@ jobs:
 
       - name: Move folder to target repository
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --global user.email "ashyadavash@gmail.com"
+          git config --global user.name "ashwaniYDV"
           git clone https://github.com/ashwaniYDV/ashwaniYDV.github.io.git
           cd ashwaniYDV.github.io
 
