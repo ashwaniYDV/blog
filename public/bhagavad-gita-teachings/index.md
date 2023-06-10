@@ -1,10 +1,5 @@
----
-title: "The Learnings of Bhagavad Gita"
-date: 2023-06-10T03:14:46+05:30
-draft: false
-featuredImage: "posts/gita1.jpg"
-tags: ["dharma"]
----
+# The Learnings of Bhagavad Gita
+
 
 The Bhagavad Gita, often referred to as the Gita, is a 700-verse Hindu scripture that is part of the Indian epic Mahabharata. 
 
@@ -39,3 +34,4 @@ The Gita places great importance on seeking knowledge and wisdom. It teaches us 
 ## 7. Surrender to the Divine Will
 
 Lastly, the Bhagavad Gita teaches us the significance of surrendering to the divine will. It emphasizes that true freedom lies in surrendering our ego and desires to a higher power. By surrendering ourselves to the divine, we let go of control and trust in the greater plan of the universe. This surrender allows us to experience inner peace, divine grace, and a sense
+
