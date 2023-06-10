@@ -15,9 +15,17 @@ jobs:
 
       - name: Move files and folders
         run: |
-          rm -rf docs/
-          mkdir docs  # Create the destination directory
-          mv public/* docs/  # Move all files and folders
+          if [ -d "docs" ]; then
+            rm -rf docs/
+            mkdir docs  # Create the destination directory
+
+            if [ -d "public" ]; then
+              mv public/* docs/  # Move all files and folders
+            else
+              echo "public directory does not exist."
+          else
+              echo "docs directory does not exist."
+          fi
 
       - name: Commit changes
         run: |
