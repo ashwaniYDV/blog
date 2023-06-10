@@ -1,10 +1,5 @@
----
-title: "The Learnings of Bhagavad Gita"
-date: 2023-06-10T03:14:46+05:30
-draft: false
-featuredImage: "posts/gita1.jpg"
-tags: ["dharma"]
----
+# The Learnings of Bhagavad Gita
+
 
 The Bhagavad Gita, often referred to as the Gita, is a 700-verse Hindu scripture that is part of the Indian epic Mahabharata. 
 
