@@ -2,8 +2,8 @@
 
 ### Steps to add a blog
 ```
-1) Create a blog
-2) build the hugo site using "hugo" command
+1) Create a blog => "hugo new posts/my-first-post.md"
+2) build the site => "hugo"
 3) push to github
 
 Dont forget to build site to avoind github action error.
