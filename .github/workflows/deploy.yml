@@ -17,14 +17,14 @@ jobs:
         run: |
           if [ -d "docs" ]; then
             rm -rf docs/
-            mkdir docs  # Create the destination directory
+          fi
 
-            if [ -d "public" ]; then
-              mv public/* docs/  # Move all files and folders
-            else
-              echo "public directory does not exist."
+          mkdir docs
+
+          if [ -d "public" ]; then
+            mv public/* docs/
           else
-              echo "docs directory does not exist."
+            echo "public directory does not exist."
           fi
 
       - name: Commit changes
