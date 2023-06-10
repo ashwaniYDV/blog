@@ -1,0 +1,35 @@
+name: Move Folder
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  move-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v2
+
+      - name: Move folder to target repository
+        run: |
+          git clone https://github.com/ashwaniYDV/ashwaniYDV.github.io.git
+          cd ashwaniYDV.github.io
+
+          if [ -d "./test" ]; then
+              rm -rf ./test
+          else
+              echo "Directory does not exist."
+          fi
+
+          if [ -d "../public" ]; then
+              mkdir -p test
+              cp -R ../public* ./test
+              git add .
+              git commit -m "Moved folder from source repository"
+              git push
+          else
+              echo "public directory does not exist."
+          fi
