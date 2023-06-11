@@ -7,7 +7,7 @@
 
 ### Steps to push to github
 ```
-z_push_to_github.sh
+./z_push_to_github.sh
 ```
 
 ### Cloning repo
