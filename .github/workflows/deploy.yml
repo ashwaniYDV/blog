@@ -6,7 +6,7 @@ on:
       - master  # Replace with your branch name
 
 jobs:
-  move_files:
+  rename_folder:
     runs-on: ubuntu-latest
 
     steps:
