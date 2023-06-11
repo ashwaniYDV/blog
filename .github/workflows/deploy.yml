@@ -1,4 +1,4 @@
-name: Move Files
+name: Rename Folder
 
 on:
   push:
@@ -13,15 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Move files and folders
+      - name: Rename Folder
         run: |
-          if [ -d "public" ]; then
-            if [ -d "docs" ]; then
-              rm -rf docs/
-            fi
-            mkdir docs
-            
-            mv public/* docs/
+          if [ -d "public" ]; then  
+            mv public docs
           else
             echo "public directory does not exist."
           fi
