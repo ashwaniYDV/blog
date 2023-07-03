@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Enter file name:"
+echo "Enter title:"
 read NAME
 
 # Slugify the title
