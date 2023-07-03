@@ -2,8 +2,9 @@
 title: "What we stay Alive for?"
 date: 2023-07-03T23:09:33+05:30
 draft: false
-featuredImage: "posts/dead_port_society.png"
+featuredImage: "posts/dead_poet_society.jpg"
 tags: ["poetry"]
+categories: ["Aatm Manthan"]
 ---
 
 We don’t read and write poetry because it’s cute.  

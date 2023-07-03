@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - My New Hugo Site</title>
+        <link>https://ashwaniydv.github.io/blog/categories/</link>
+        <description>Categories - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ashyadavash@gmail.com (Ashwani)</managingEditor>
+            <webMaster>ashyadavash@gmail.com (Ashwani)</webMaster><lastBuildDate>Mon, 03 Jul 2023 23:09:33 &#43;0530</lastBuildDate><atom:link href="https://ashwaniydv.github.io/blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Aatm Manthan</title>
+    <link>https://ashwaniydv.github.io/blog/categories/aatm-manthan/</link>
+    <pubDate>Mon, 03 Jul 2023 23:09:33 &#43;0530</pubDate>
+    <author>Ashwani</author>
+    <guid>https://ashwaniydv.github.io/blog/categories/aatm-manthan/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -4,6 +4,7 @@ date: 2023-06-30T15:16:28+05:30
 draft: false
 featuredImage: "posts/znmd1.jpg"
 tags: ["poetry"]
+categories: ["Aatm Manthan"]
 ---
 
 दिलों में तुम अपनी बेताबियाँ लेके चल रहे हो, तो ज़िंदा हो तुम  

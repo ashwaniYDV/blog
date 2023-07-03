@@ -4,6 +4,7 @@ date: 2023-06-10T03:14:46+05:30
 draft: false
 featuredImage: "posts/gita1.jpg"
 tags: ["dharma"]
+categories: ["Aatm Manthan"]
 ---
 
 The Bhagavad Gita, often referred to as the Gita, is a 700-verse Hindu scripture that is part of the Indian epic Mahabharata. 
