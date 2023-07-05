@@ -16,16 +16,15 @@ After cloning the repo, if themes folder is empty run this command:
 git clone https://github.com/dillonzq/LoveIt themes/LoveIt
 ```
 
+### To run the development server  
+```
+hugo serve -D
+```
+
 ### Notes
 ```
 1) Github action runs to rename public folder to docs.
 2) Deployment is happening through gh-pages from the master branch using the docs folder.
-```
-
-###
-```
-To run development server  
-hugo serve -D
 ```
 
 #### Resources
