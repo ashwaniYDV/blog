@@ -388,7 +388,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # 
         enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = "https-ashwaniydv-github-io-blog"
+        shortname = "ashwaniydv-github-io-blog"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
