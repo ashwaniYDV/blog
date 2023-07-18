@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>https://ashwaniydv.github.io/blog/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
+        <title>Aatm Manthan - Category - Ashwani&#39;s Blog</title>
+        <link>https://ashwaniydv.github.io/blog/categories/aatm-manthan/</link>
+        <description>Aatm Manthan - Category - Ashwani&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ashyadavash@gmail.com (Ashwani)</managingEditor>
-            <webMaster>ashyadavash@gmail.com (Ashwani)</webMaster><lastBuildDate>Mon, 03 Jul 2023 23:09:33 &#43;0530</lastBuildDate><atom:link href="https://ashwaniydv.github.io/blog/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>ashyadavash@gmail.com (Ashwani)</webMaster><lastBuildDate>Mon, 03 Jul 2023 23:09:33 &#43;0530</lastBuildDate><atom:link href="https://ashwaniydv.github.io/blog/categories/aatm-manthan/" rel="self" type="application/rss+xml" /><item>
     <title>What we stay Alive for?</title>
     <link>https://ashwaniydv.github.io/blog/what-we-stay-alive-for-32240/</link>
     <pubDate>Mon, 03 Jul 2023 23:09:33 &#43;0530</pubDate>
